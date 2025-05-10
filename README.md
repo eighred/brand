@@ -1,6 +1,6 @@
-# 📘 Eighred Brand Assets
+# 📘 Eighred logo and brand assets
 
-## Download the Eighred logo and brand assets
+This repository contains the logo and other brand assets of the Eighred brand.
 
 ---
 
